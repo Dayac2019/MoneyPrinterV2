@@ -1,12 +1,12 @@
 {
   "verbose": true,
-  "firefox_profile": "",
+  "firefox_profile": "C:\Users\dayac\AppData\Roaming\Mozilla\Firefox\Profiles\5o6ihrwr.ai social",
   "headless": false,
   "ollama_base_url": "http://127.0.0.1:11434",
-  "ollama_model": "",
+  "ollama_model": "gemma3:4b",
   "twitter_language": "English",
   "nanobanana2_api_base_url": "https://generativelanguage.googleapis.com/v1beta",
-  "nanobanana2_api_key": "",
+  "nanobanana2_api_key": "AIzaSyAJBMb7O09PMryzTeD9B062bpgf9B3Us8I",
   "nanobanana2_model": "gemini-3.1-flash-image-preview",
   "nanobanana2_aspect_ratio": "9:16",
   "threads": 2,
@@ -16,8 +16,8 @@
   "email": {
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587,
-    "username": "",
-    "password": ""
+    "username": "aimoneypump@google.com",
+    "password": "7172648710@"
   },
   "google_maps_scraper_niche": "",
   "scraper_timeout": 300,
@@ -27,9 +27,9 @@
   "whisper_model": "base",
   "whisper_device": "auto",
   "whisper_compute_type": "int8",
-  "assembly_ai_api_key": "",
+  "assembly_ai_api_key": "8ade1ae6645942eaaba3e047d3cc3c34",
   "tts_voice": "Jasper",
   "font": "bold_font.ttf",
-  "imagemagick_path": "Path to magick.exe or on linux/macOS just /usr/bin/convert",
+  "imagemagick_path": "C:\Program Files\ImageMagick-7.1.2-Q16-HDRI",
   "script_sentence_length": 4
 }
